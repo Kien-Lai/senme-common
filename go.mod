@@ -1,4 +1,4 @@
-module senme/common
+module github.com/Kien-Lai/senme-common
 
 go 1.19
 

@@ -2,11 +2,11 @@ package middleware
 
 import (
 	"firebase.google.com/go/auth"
+	"github.com/Kien-Lai/senme-common/constant"
+	"github.com/Kien-Lai/senme-common/firebase"
+	"github.com/Kien-Lai/senme-common/utils"
 	"github.com/gin-gonic/gin"
 	"regexp"
-	"senme/common/constant"
-	"senme/common/firebase"
-	"senme/common/utils"
 )
 
 type UserContext struct {
