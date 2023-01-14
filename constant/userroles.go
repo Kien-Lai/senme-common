@@ -1,0 +1,9 @@
+package constant
+
+const (
+	ROLES_SUPPER_ADMIN = "SUPPER_ADMIN"
+	ROLES_ADMIN        = "ADMIN"
+	ROLES_CS           = "CS"
+	ROLES_THERAPIS     = "THERAPIST"
+	ROLES_NORMAL_USER  = "NORMAL_USER"
+)
